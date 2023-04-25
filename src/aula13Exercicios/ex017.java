@@ -8,13 +8,14 @@ public class ex017 {
 //    galões de 3,6 litros, que custam R$ 25,00.
 //    o Informe ao usuário as quantidades de tinta a serem compradas
 //    e os respectivos preços em 3 situações:
-//    o comprar apenas latas de 18 litros;
-//    o comprar apenas galões de 3,6 litros;
-//    o misturar latas e galões, de forma que o preço seja o
-//    menor. Acrescente 10% de folga e sempre arredonde os
-//    valores para cima, isto é, considere latas cheias.
+//      o comprar apenas latas de 18 litros;
+//      o comprar apenas galões de 3,6 litros;
+//      o misturar latas e galões, de forma que o preço seja o
+//      menor. Acrescente 10% de folga e sempre arredonde os
+//      valores para cima, isto é, considere latas cheias.
 
     public static void main(String[] args) {
+
 
     }
 }
