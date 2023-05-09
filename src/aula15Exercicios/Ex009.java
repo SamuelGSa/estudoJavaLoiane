@@ -1,9 +1,8 @@
 package aula15Exercicios;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
-public class ex009 {
+public class Ex009 {
 
     // 9. Faça um Programa que leia três números e mostre-os em ordem
     //decrescente.

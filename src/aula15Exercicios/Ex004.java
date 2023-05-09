@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class ex004 {
+public class Ex004 {
 
     // 4 Faça um Programa que verifique se uma letra digitada é vogal ou
     //consoante.

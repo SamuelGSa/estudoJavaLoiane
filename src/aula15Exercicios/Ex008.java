@@ -2,7 +2,7 @@ package aula15Exercicios;
 
 import java.util.Scanner;
 
-public class ex008 {
+public class Ex008 {
 
     // 8. Faça um programa que pergunte o preço de três produtos e informe
     //qual produto você deve comprar, sabendo que a decisão é sempre

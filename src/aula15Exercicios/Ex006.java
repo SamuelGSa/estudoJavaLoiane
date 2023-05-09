@@ -1,10 +1,8 @@
 package aula15Exercicios;
 
-import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
-public class ex006 {
+public class Ex006 {
 
     // 6. Faça um Programa que leia três números e mostre o maior deles.
     public static void main(String[] args) {

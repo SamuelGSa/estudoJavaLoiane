@@ -1,11 +1,8 @@
 package aula15Exercicios;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 import java.util.Scanner;
 
-public class ex0010 {
+public class Ex010 {
 
     // 10.Faça um Programa que pergunte em que turno você estuda. Peça
     //para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a

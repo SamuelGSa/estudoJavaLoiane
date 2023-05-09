@@ -1,10 +1,8 @@
 package aula15Exercicios;
 
-import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
-public class ex005 {
+public class Ex005 {
 
     // 5. Faça um programa para a leitura de duas notas parciais de um aluno.
     //O programa deve calcular a média alcançada por aluno e apresentar:
